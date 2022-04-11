@@ -7,5 +7,5 @@ O Desafio proposto era de criar o projeto sozinho com base num layout do figma p
 ## Link
 [Projeto](https://jonasncsantos.github.io/Rocket.sect/)
 
-## Imagens do Projeto
+## Imagen do Projeto
 ![image](https://user-images.githubusercontent.com/84877737/162846257-9d5b8612-b395-426f-90b5-a65f18377421.png)
