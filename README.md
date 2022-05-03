@@ -1,4 +1,4 @@
-# Rocket.set
+# Rocket.sect
 Recriando Layout - Desafio 04 - Nivel 02 - Explorer
 
 ## Desafios
